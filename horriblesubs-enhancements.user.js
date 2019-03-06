@@ -4,6 +4,9 @@
 // @version     1.1.2
 // @description Restores the download links in the latest releases on the front page. More to come?
 // @author      Hajile-Haji
+// @homepage    https://github.com/Hajile-Haji/HorribleSubs-Enhancments
+// @updateURL   https://github.com/Hajile-Haji/HorribleSubs-Enhancments/raw/master/horriblesubs-enhancements.user.js
+// @downloadURL https://github.com/Hajile-Haji/HorribleSubs-Enhancments/raw/master/horriblesubs-enhancements.user.js
 // @match       https://horriblesubs.info/
 // ==/UserScript==
 
